@@ -1,7 +1,49 @@
-### Hi there 👋
+<h1>Hello World, I'm Dante! <br/><a href="https://www.linkedin.com/in/dantefalls/">Cybersecurity Analyst</a>, <a href="https://github.com/dante-falls">Programmer</a>, <a href="https://www.youtube.com/@dantesderivatives">YouTuber</a></h1>
+
+<h2>👨‍💻 IT And Cybersecurity Projects:</h2>
+
+- <b>Active Directory Home Lab</b>
+  - [Active Directory For Beginners](https://medium.com/@dante.falls/active-directory-for-beginners-ed71fa414769)
+  - [How To Deploy A PowerShell Script In Active Directory Using GPO](https://medium.com/@dante.falls/how-to-deploy-a-powershell-script-in-active-directory-using-gpo-9f70739e2bee)
+  - [How To Create A Windows Server Backup Policy With PowerShell](https://medium.com/@dante.falls/how-to-create-a-windows-server-backup-policy-with-powershell-8728e17fa36b)
+  - [How To Prevent Windows From Storing LAN Manager Hashes](https://medium.com/@dante.falls/prevent-windows-from-storing-lan-manager-hashes-gpo-9a0608b753d0)
+  - [Disabling Access To The Command Prompt With A Group Policy Object](https://medium.com/@dante.falls/disabling-access-to-the-command-prompt-with-a-group-policy-object-b6dd56329965)
+  - [How To Disable Access To Removable Storage In Your Active Directory Domain (GPO)](https://medium.com/@dante.falls/how-to-disable-access-to-removable-storage-in-your-active-directory-domain-gpo-547a3a63c5fa)
+- <b>Nessus Vulnerability Management Lab</b>
+  - [Vulnerability Management With Nessus Essentials](https://medium.com/@dante.falls/vulnerability-management-with-nessus-essentials-1dd0798c378d)
+- <b>PowerShell</b>
+  - [Use PowerShell To Automatically Identify And Disable Inactive User Accounts In Active Directory](https://github.com/dante-falls/userInactivity.PowerShell)
+  - [Bulk User Account Creation In Active Directory (With PowerShell)](https://github.com/dante-falls/AD_userCreation.PowerShell)
+  - [Use PowerShell To Retrieve Application Error Logs From A Remote Computer](https://github.com/dante-falls/appCrash.PowerShell)
+  - [Retrieve The Uptime Of A Remote Computer With PowerShell](https://github.com/dante-falls/upTime.PowerShell)
+  - [Use PowerShell To Retrieve The Available Disk Space On A Remote Computer](https://github.com/dante-falls/diskSpace.PowerShell)
+  - [Display The Computer Name In Order To Help IT Support Professionals Gain Remote Access](https://github.com/dante-falls/deviceName.PowerShell)
+
+<h2>📺 A Few Of My Educational YouTube Videos</h2>
+
+- [Purple-Shark - A Bash Script For PCAP Analysis - Cybersecurity](https://youtu.be/lnBnNEV4Jtg)
+- [How To Hack Picture Metadata With Kali Linux - Blue Team Labs Online](https://youtu.be/Gr0H3hmwb28)
+- [Basic Log Analysis - Privilege Escalation - Blue Team Labs Online](https://youtu.be/ntpoN2qojVU)
+- [PowerShell Script Analysis - Keylogger - Blue Team Labs Online](https://youtu.be/4zPdProBhPk)
+- [Ransomeware Script - Beginner Malware Analysis - Blue Team Labs Online](https://youtu.be/xphsKuZEcRc)
+- [RootMe - A Beginner Level CTF From TryHackMe [EASY]](https://youtu.be/BtY9cHer2z0)
+- [How To Handle Files In Linux - Entry Level Cybersecurity](https://youtu.be/g7EnTnMOId0)
+- [Python Algebra Equation Solver](https://youtu.be/6wlGVFwHxzo)
+- [Coding A Graphing Tool In Python](https://youtu.be/A_6gTRd10CU)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="DanteFalls | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="DanteFalls | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DanteFalls | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+
+
+[youtube]: https://www.youtube.com/@dantesderivatives
+[linkedin]: https://linkedin.com/in/dantefalls
+[medium]: https://medium.com/@dante.falls
 
 <!--
-**dante-falls/dante-falls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dante-falls/dante-falls1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
