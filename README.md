@@ -4,11 +4,11 @@
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory For Beginners](https://medium.com/@dante.falls/active-directory-for-beginners-ed71fa414769)
-  - [How To Deploy A PowerShell Script In Active Directory Using GPO](https://medium.com/@dante.falls/how-to-deploy-a-powershell-script-in-active-directory-using-gpo-9f70739e2bee)
-  - [How To Create A Windows Server Backup Policy With PowerShell](https://medium.com/@dante.falls/how-to-create-a-windows-server-backup-policy-with-powershell-8728e17fa36b)
-  - [How To Prevent Windows From Storing LAN Manager Hashes](https://medium.com/@dante.falls/prevent-windows-from-storing-lan-manager-hashes-gpo-9a0608b753d0)
+  - [Deploy A PowerShell Script In Active Directory Using GPO](https://medium.com/@dante.falls/how-to-deploy-a-powershell-script-in-active-directory-using-gpo-9f70739e2bee)
+  - [Create A Windows Server Backup Policy With PowerShell](https://medium.com/@dante.falls/how-to-create-a-windows-server-backup-policy-with-powershell-8728e17fa36b)
+  - [Prevent Windows From Storing LAN Manager Hashes](https://medium.com/@dante.falls/prevent-windows-from-storing-lan-manager-hashes-gpo-9a0608b753d0)
   - [Disabling Access To The Command Prompt With A Group Policy Object](https://medium.com/@dante.falls/disabling-access-to-the-command-prompt-with-a-group-policy-object-b6dd56329965)
-  - [How To Disable Access To Removable Storage In Your Active Directory Domain (GPO)](https://medium.com/@dante.falls/how-to-disable-access-to-removable-storage-in-your-active-directory-domain-gpo-547a3a63c5fa)
+  - [Disable Access To Removable Storage In Your Active Directory Domain (GPO)](https://medium.com/@dante.falls/how-to-disable-access-to-removable-storage-in-your-active-directory-domain-gpo-547a3a63c5fa)
 - <b>Nessus Vulnerability Management Lab</b>
   - [Vulnerability Management With Nessus Essentials](https://medium.com/@dante.falls/vulnerability-management-with-nessus-essentials-1dd0798c378d)
 - <b>PowerShell</b>
