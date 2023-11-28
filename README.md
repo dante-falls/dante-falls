@@ -18,6 +18,8 @@
   - [Retrieve The Uptime Of A Remote Computer With PowerShell](https://github.com/dante-falls/upTime.PowerShell)
   - [Use PowerShell To Retrieve The Available Disk Space On A Remote Computer](https://github.com/dante-falls/diskSpace.PowerShell)
   - [Display The Computer Name In Order To Help IT Support Professionals Gain Remote Access](https://github.com/dante-falls/deviceName.PowerShell)
+- <b>Bash Scripting</b>
+  - [Purple Shark - A Shell Script That Automatically Extracts Network Traffic Data From A PCAP File](https://github.com/dante-falls/Purple-Shark)
 
 <h2>Professional Certifications</h2>
 
