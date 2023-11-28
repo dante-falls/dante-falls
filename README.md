@@ -1,5 +1,4 @@
-<h1>Hello World, I'm Dante! <br/><a href="https://www.linkedin.com/in/dantefalls/">Cybersecurity Analyst</a>, <a href="https://github.com/dante-falls">Programmer</a>, <a href="https://www.youtube.com/@dantesderivatives">YouTuber</a></h1>
-
+<h1>Hello World, I'm Dante! <br/><a href="https://www.linkedin.com/in/dantefalls/">Cybersecurity</a>,<a href="https://github.com/dante-falls">Programmer</a>,<a href="https://www.youtube.com/@dantesderivatives">YouTuber</a></h1>
 <h2>👨‍💻 IT And Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
@@ -25,6 +24,10 @@
 
   - [CompTIA Security+ CE](https://www.certmetrics.com/comptia/public/verification.aspx/) Verification Code = B47214YYJMQQ1V3Y
   - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/RPWKR2TJSW75)
+
+<h2> 📰 My IT/Cybersecurity Blog On Medium</h2>
+
+- [Check Out My IT/Cybersecurity Blog On Medium.com](https://medium.com/@dantefalls)
 
 <h2>📺 A Few Of My Educational YouTube Videos</h2>
 
