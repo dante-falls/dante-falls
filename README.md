@@ -19,6 +19,11 @@
   - [Use PowerShell To Retrieve The Available Disk Space On A Remote Computer](https://github.com/dante-falls/diskSpace.PowerShell)
   - [Display The Computer Name In Order To Help IT Support Professionals Gain Remote Access](https://github.com/dante-falls/deviceName.PowerShell)
 
+<h2>Professional Certifications</h2>
+
+  - [CompTIA Security+ CE](https://www.certmetrics.com/comptia/public/verification.aspx/) Verification Code = B47214YYJMQQ1V3Y
+  - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/RPWKR2TJSW75)
+
 <h2>📺 A Few Of My Educational YouTube Videos</h2>
 
 - [Purple-Shark - A Bash Script For PCAP Analysis - Cybersecurity](https://youtu.be/lnBnNEV4Jtg)
