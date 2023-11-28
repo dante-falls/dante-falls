@@ -27,7 +27,7 @@
 
 <h2> 📰 My IT/Cybersecurity Blog On Medium</h2>
 
-- [Check Out My IT/Cybersecurity Blog On Medium.com](https://medium.com/@dantefalls)
+- [Check Out My IT/Cybersecurity Blog On Medium.com](https://medium.com/@dante.falls)
 
 <h2>📺 A Few Of My Educational YouTube Videos</h2>
 
