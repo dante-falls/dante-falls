@@ -20,12 +20,12 @@
 - <b>Bash Scripting</b>
   - [Purple Shark - A Shell Script That Automatically Extracts Network Traffic Data From A PCAP File](https://github.com/dante-falls/Purple-Shark)
 
-<h2>Professional Certifications</h2>
+<h2>✅ Professional Certifications</h2>
 
   - [CompTIA Security+ CE](https://www.certmetrics.com/comptia/public/verification.aspx/) Verification Code = B47214YYJMQQ1V3Y
   - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/RPWKR2TJSW75)
 
-<h2> 📰 My IT/Cybersecurity Blog On Medium</h2>
+<h2>📰 My IT/Cybersecurity Blog On Medium</h2>
 
 - [Check Out My IT/Cybersecurity Blog On Medium.com](https://medium.com/@dante.falls)
 
@@ -41,7 +41,7 @@
 - [Python Algebra Equation Solver](https://youtu.be/6wlGVFwHxzo)
 - [Coding A Graphing Tool In Python](https://youtu.be/A_6gTRd10CU)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="DanteFalls | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="DanteFalls | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
