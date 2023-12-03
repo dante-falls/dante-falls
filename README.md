@@ -10,6 +10,8 @@
   - [Disable Access To Removable Storage In Your Active Directory Domain (GPO)](https://medium.com/@dante.falls/how-to-disable-access-to-removable-storage-in-your-active-directory-domain-gpo-547a3a63c5fa)
 - <b>Nessus Vulnerability Management Lab</b>
   - [Vulnerability Management With Nessus Essentials](https://medium.com/@dante.falls/vulnerability-management-with-nessus-essentials-1dd0798c378d)
+- <b>AI Prompt Engineering</b>
+  - [My Journey To Learn AI Prompt Engineering](https://github.com/dante-falls/AI_Prompt_Engineering)
 - <b>PowerShell</b>
   - [Use PowerShell To Automatically Identify And Disable Inactive User Accounts In Active Directory](https://github.com/dante-falls/userInactivity.PowerShell)
   - [Bulk User Account Creation In Active Directory (With PowerShell)](https://github.com/dante-falls/AD_userCreation.PowerShell)
