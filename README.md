@@ -12,6 +12,7 @@
   - [Vulnerability Management With Nessus Essentials](https://medium.com/@dante.falls/vulnerability-management-with-nessus-essentials-1dd0798c378d)
 - <b>AI Prompt Engineering</b>
   - [My Journey To Learn AI Prompt Engineering](https://github.com/dante-falls/AI_Prompt_Engineering)
+  - [Prompt Injection Attacks On Large Language Models](https://github.com/dante-falls/AI_Prompt_Engineering/blob/main/Prompt_Injection_Attacks.md)
 - <b>PowerShell</b>
   - [Use PowerShell To Automatically Identify And Disable Inactive User Accounts In Active Directory](https://github.com/dante-falls/userInactivity.PowerShell)
   - [Bulk User Account Creation In Active Directory (With PowerShell)](https://github.com/dante-falls/AD_userCreation.PowerShell)
