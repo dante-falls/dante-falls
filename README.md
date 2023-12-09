@@ -13,6 +13,8 @@
 - <b>AI Prompt Engineering</b>
   - [My Journey To Learn AI Prompt Engineering](https://github.com/dante-falls/AI_Prompt_Engineering)
   - [Prompt Injection Attacks On Large Language Models](https://github.com/dante-falls/AI_Prompt_Engineering/blob/main/Prompt_Injection_Attacks.md)
+  - [Article - ⚠️ChatGPT3.5 Browses The Web And Provides IP Addresses And Page Source Code](https://medium.com/@dante.falls/chatgpt3-5-and-insecure-hallucinations-7df09f919e8b)
+  - [Article - ⚠️ChatGPT3.5 Prompt Injections To Spread Misinformation](https://www.linkedin.com/pulse/making-chatgpt35-say-inappropriate-things-dante-falls-ynuic/)
 - <b>PowerShell</b>
   - [Use PowerShell To Automatically Identify And Disable Inactive User Accounts In Active Directory](https://github.com/dante-falls/userInactivity.PowerShell)
   - [Bulk User Account Creation In Active Directory (With PowerShell)](https://github.com/dante-falls/AD_userCreation.PowerShell)
