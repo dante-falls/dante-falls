@@ -10,11 +10,12 @@
   - [Disable Access To Removable Storage In Your Active Directory Domain (GPO)](https://medium.com/@dante.falls/how-to-disable-access-to-removable-storage-in-your-active-directory-domain-gpo-547a3a63c5fa)
 - <b>Nessus Vulnerability Management Lab</b>
   - [Vulnerability Management With Nessus Essentials](https://medium.com/@dante.falls/vulnerability-management-with-nessus-essentials-1dd0798c378d)
-- <b>AI Prompt Engineering</b>
+- <b>AI Security And Prompt Engineering</b>
   - [My Journey To Learn AI Prompt Engineering](https://github.com/dante-falls/AI_Prompt_Engineering)
   - [Prompt Injection Attacks On Large Language Models](https://github.com/dante-falls/AI_Prompt_Engineering/blob/main/Prompt_Injection_Attacks.md)
   - [Article - ⚠️ChatGPT3.5 Browses The Web And Provides IP Addresses And Page Source Code](https://medium.com/@dante.falls/chatgpt3-5-and-insecure-hallucinations-7df09f919e8b)
   - [Article - ⚠️ChatGPT3.5 Prompt Injections To Spread Misinformation](https://www.linkedin.com/pulse/making-chatgpt35-say-inappropriate-things-dante-falls-ynuic/)
+  - [Article - 🧠🛡️Gandalf - The AI Generative AI Security Game](https://medium.com/@dante.falls/gandalf-the-generative-ai-security-game-395b7fa2ecf0)
 - <b>PowerShell</b>
   - [Use PowerShell To Automatically Identify And Disable Inactive User Accounts In Active Directory](https://github.com/dante-falls/userInactivity.PowerShell)
   - [Bulk User Account Creation In Active Directory (With PowerShell)](https://github.com/dante-falls/AD_userCreation.PowerShell)
