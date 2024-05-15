@@ -3,6 +3,8 @@
 
 - <b>Web Security</b>
   - [My Web Security Journey](https://github.com/dante-falls/Web-Security)
+- <b>Cloud Security</b>
+  - [How To Find And Test S3 Buckets For Bug Bounty](https://medium.com/@dante.falls/how-to-find-and-test-s3-buckets-for-bug-bounty-b91166f9b4e0)
 - <b>Active Directory Home Lab</b>
   - [Active Directory For Beginners](https://medium.com/@dante.falls/active-directory-for-beginners-ed71fa414769)
   - [Deploy A PowerShell Script In Active Directory Using GPO](https://medium.com/@dante.falls/how-to-deploy-a-powershell-script-in-active-directory-using-gpo-9f70739e2bee)
