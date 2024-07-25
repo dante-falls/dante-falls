@@ -1,4 +1,4 @@
-<h1>Hello World, I'm Dante! <br/><a href="https://www.linkedin.com/in/dantefalls/">Cybersecurity</a>,<a href="https://github.com/dante-falls?tab=repositories">Programmer</a>,<a href="https://www.youtube.com/@dantesderivatives">YouTuber</a></h1>
+<h1>Hello World, I'm Dante! <br/><a href="https://www.linkedin.com/in/dantefalls/">Cybersecurity</a>,<a href="https://github.com/dante-falls?tab=repositories">Programmer</a>,<a href="https://www.youtube.com/@cybernerddante">YouTuber</a></h1>
 <h2>👨‍💻 IT And Cybersecurity Projects:</h2>
 
 - <b>Web Security</b>
@@ -58,7 +58,7 @@
 [<img align="left" alt="DanteFalls | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
 
 
-[youtube]: https://www.youtube.com/@dantesderivatives
+[youtube]: https://www.youtube.com/@cybernerddante
 [linkedin]: https://linkedin.com/in/dantefalls
 [medium]: https://medium.com/@dante.falls
 
