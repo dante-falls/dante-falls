@@ -2,7 +2,8 @@
 <h2>👨‍💻 IT And Cybersecurity Projects:</h2>
 
 - <b>Web Security</b>
-  - [My Web Security Journey](https://github.com/dante-falls/Web-Security)
+  - [🚀My Web Security Journey📗](https://github.com/dante-falls/Web-Security)
+  - [💸Stored-Blind XSS -- My First Paid Bug Bounty💰](https://medium.com/@dante.falls/my-first-paid-bug-bounty-stored-blind-xss-abe8ad06b3b3)
 - <b>Cloud Security</b>
   - [How To Find And Test S3 Buckets For Bug Bounty](https://medium.com/@dante.falls/how-to-find-and-test-s3-buckets-for-bug-bounty-b91166f9b4e0)
 - <b>Active Directory Home Lab</b>
